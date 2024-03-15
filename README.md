@@ -1,6 +1,6 @@
 # C++ PRECTICAL 
 
-** PRECTICAL 1**
+*** PRECTICAL 1**    
 #include <iostream>
 #include <cstdlib> // For atoi function
 
